@@ -330,4 +330,4 @@ Now alter the location to append "?message=bar" and load the page. You should no
 <p>You said "bar".</p>
 ```
 
-Congratulations! You've created your first ZF2 MVC module!
+Congratulations! You've created your first ZF3 MVC module!
